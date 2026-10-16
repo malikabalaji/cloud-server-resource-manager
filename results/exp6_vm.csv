@@ -1,0 +1,4 @@
+fit,success_mean,success_ci95,frag_mean,frag_ci95,success_improvement
+first,0.7085,0.0432,0.2886,0.0385,0.0
+best,0.7105,0.0401,0.2404,0.037,0.28
+worst,0.7075,0.0411,0.3579,0.0302,-0.14

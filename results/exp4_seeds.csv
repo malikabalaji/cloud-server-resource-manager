@@ -1,0 +1,7 @@
+dispatch,local,wait_mean,wait_sd,resp_mean,resp_sd,util_std_mean
+rr,fcfs,77.73,19.02,77.73,19.02,0.23
+rr,sjf,25.8,6.47,25.8,6.47,0.228
+rr,rr,59.59,15.79,16.56,3.6,0.234
+least,fcfs,55.5,19.54,55.5,19.54,0.022
+least,sjf,20.82,6.25,20.82,6.25,0.021
+least,rr,44.34,15.39,12.62,3.88,0.019

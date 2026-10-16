@@ -1,0 +1,7 @@
+dispatch,local,admitted_mean,rejection_rate_mean,rejection_ci95,wait_mean,wait_ci95
+rr,fcfs,141.7,0.2915,0.0432,20.39,3.68
+rr,sjf,162.4,0.188,0.0272,13.38,1.61
+rr,rr,144.0,0.28,0.0299,18.72,3.5
+least,fcfs,140.0,0.3,0.0712,17.66,4.62
+least,sjf,158.5,0.2075,0.0592,12.4,2.13
+least,rr,146.0,0.27,0.069,18.29,3.82

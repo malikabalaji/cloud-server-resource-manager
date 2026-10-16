@@ -1,0 +1,6 @@
+disk,head_movement_mean,ci95,improvement_pct
+fcfs,27926.3,1473.0,0.0
+sstf,1794.3,398.8,93.57
+scan,2250.1,664.2,91.94
+cscan,3254.7,899.2,88.35
+look,1756.7,411.8,93.71
